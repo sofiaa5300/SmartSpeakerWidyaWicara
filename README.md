@@ -38,7 +38,7 @@ The output shown below :
 3. Build source code
 > ubuntu@ubuntu-virtual-machine:~/MT8516folder/build$ ./mybuild.sh
 
-## 3. Running Smart Speaker
+## 3. Run Smart Speaker
 
 After a build is completed, you can run the Speaker
 1. Open Ubuntu Terminal
