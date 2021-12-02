@@ -44,5 +44,5 @@ After a build is completed, flash the image by perform the following steps
 1. Open Ubuntu Terminal
 > ubuntu@ubuntu-virtual-machine:~MT8516/build/tmp/deploy/images/bwd06l-consys-emmc-128-32b$
 
-2. Run smart speaker
+2. Flash Image
 > ubuntu@ubuntu-virtual-machine:~MT8516/build/tmp/deploy/images/bwd06l-consys-emmc-128-32b$ python flashimage_adb.py
