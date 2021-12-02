@@ -38,9 +38,9 @@ The output shown below :
 3. Build source code
 > ubuntu@ubuntu-virtual-machine:~/MT8516folder/build$ ./mybuild.sh
 
-## 3. Run Smart Speaker
+## 3. Flash Image
 
-After a build is completed, you can run the Speaker
+After a build is completed, flash the image by perform the following steps
 1. Open Ubuntu Terminal
 > ubuntu@ubuntu-virtual-machine:~MT8516/build/tmp/deploy/images/bwd06l-consys-emmc-128-32b$
 
